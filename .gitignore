@@ -1,0 +1,5 @@
+node_modules
+CoolCalculator-darwin-x64
+CoolCalculator-win32-x64
+js/build_installer.js
+windows_installer.zip
